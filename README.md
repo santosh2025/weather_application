@@ -1,4 +1,4 @@
-## Weather Application
+## Weather Application https://liveat.netlify.app/
 
 A simple and elegant weather application built using JavaScript, REST APIs, Tailwind CSS, HTML, and CSS. This application allows users to check the current weather and forecast for any location worldwide. It features a responsive design, ensuring optimal viewing experience across devices
 
